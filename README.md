@@ -1,19 +1,4 @@
 # Free Learning Resources For Software Testers
-An ongoing project to create a set of links to free online learning resources for new and experienced Software Testers (Click Readme.md to view).
-
-Since computer science and IT university departments don't invariably offer dedicated software testing modules and resources are spread among various different providers linked to different methodologies, I created this project to help guide new testers into some sort of useful curriculum and collate some existing web-based resources into lists of links.
-
-The rules I wish to implement are -
-
-1. Content must be relevant to testers
-2. Content must be informative and not overly "salesy"
-3. Content must be free of charge
-
-(the exceptions to these being books and magazines, of which most have to be paid for, and blogs - some of which are linked to test consultancies and thus may have promotional pieces in them)
-
-This project is very new and the more resources are added the better. I ask the testing community to help by contacting me to offer new content or fork and create a pull request. If you have any suggestions, please let me know. In the meantime, I hope you find the resources below useful.
-
-Paul Maxwell-Walters [@TestingRants](https://twitter.com/TestingRants), paulwalters2002@yahoo.co.uk
 
 ## Introduction to Testing
 
